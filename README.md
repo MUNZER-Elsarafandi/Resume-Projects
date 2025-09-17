@@ -37,3 +37,37 @@ UST Treasury Cyber Breach – Janet Yellen (Case Study)
 
 Optum Cybersecurity Incident Project
 -Investigated a healthcare-related breach, analyzing vulnerabilities, consequences, and responses.
+
+
+
+
+
+Programming & Development Projects
+
+
+C / C++ Programming Project
+-Built applications focusing on algorithms, memory handling, and I/O operations.
+-Applied structured programming concepts for efficient problem-solving.
+-Tools: C, GCC, Linux
+
+-Dynamic Web Application Development
+-Built a web app with user authentication and database integration.
+-Designed normalized relational databases with SQL queries.
+-Developed full-stack features for data entry, retrieval, and reporting.
+-Tools/Technologies: HTML, CSS, JavaScript, PHP, MySQL, Java
+
+-Assembly Programming – Game of Tiny Thrones
+-Developed a text-based RPG with resource management and combat mechanics.
+-Implemented ASCII visuals in Easy68K assembly.
+-Tools/Technologies: Assembly (Easy68K)
+
+
+
+
+
+Research & Ethics Projects
+
+Cybersecurity Ethics Research
+-Explored privacy, surveillance, and digital rights challenges.
+-Analyzed ethical dilemmas and proposed balanced solutions.
+-Skills: Cybersecurity Ethics, Critical Thinking, Research
